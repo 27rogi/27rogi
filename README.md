@@ -1,4 +1,4 @@
-<center><img src="https://media4.giphy.com/media/jUoNHLhsJF6yo2VDGE/giphy.gif"></center>
+<p align="center"><img src="https://media4.giphy.com/media/jUoNHLhsJF6yo2VDGE/giphy.gif"></p>
 <h1><b>~location: /usr/Rogi27</b> <img width="24" src="https://media2.giphy.com/media/KKH0whdvOmE3XtyPKS/giphy.gif"></h1>
  
 ```javascript
@@ -55,9 +55,11 @@ const rogi27 = {
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rogi27)
 
-<center>
+<p align="center">
 <img height="356" src="https://media0.giphy.com/media/ekBFWTwHwyeKUSDst0/giphy.gif">  
   
-`connection closed...`  
-`loading projects list...`
-</center>
+```apache
+ERROR: connection closed
+LOADING: projects list...
+```
+</p>
