@@ -20,7 +20,7 @@ const rogi27 = {
     },
     {
       type: "participation",
-      name: "XI Moscow Masters Professional Championship",
+      name: "IX Moscow Masters Professional Championship",
       competence: "Web Design and Development",
     },
   ],
