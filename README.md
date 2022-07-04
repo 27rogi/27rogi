@@ -5,7 +5,7 @@
 
 <p>
 
-Welcome, just call me **Igor**. I have vocational education diploma with honors in "**Information systems and programming**". I'm developing websites, software and sometimes do design, but I also like to experiment with new technologies. I was participating in **VIII** and **IX** **Moscow Masters Professional Championship** in competence "**Web Design and Development**".
+Welcome, just call me **Igor**. I graduated from "**Moscow State College of Electromechanics and Information Technology**" with vocational education diploma with honors in "**Information systems and programming**". I'm developing websites, software and sometimes do design, but I also like to experiment with new technologies. I was participating in **VIII** and **IX** **Moscow Masters Professional Championship** in competence "**Web Design and Development**".
  
 ### __**Quick details**__
 - 🧰 **JavaScript** / TypeScript / Java / **MongoDB** / MySQL / **Vue** / **Nuxt.js** / Nest.js
