@@ -1,6 +1,6 @@
 <p align="center">  
 
-| <h2><b>/user/rogi27</b></h2>   | <img align="right" height="64" src="https://media1.giphy.com/media/PhYTgixTZOrdFNrxHk/giphy.gif"> |
+| <h2><b>/user/rogi27</b></h2>   | <img align="right" height="48" src="https://media1.giphy.com/media/PhYTgixTZOrdFNrxHk/giphy.gif"> |
 | :--- | ---: |  
 
 <p>
