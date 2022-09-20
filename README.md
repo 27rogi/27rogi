@@ -10,7 +10,7 @@ Welcome, just call me **Igor**. I graduated from "**Moscow State College of Elec
 ### __**Quick details**__
 - 🧰 **JavaScript** / TypeScript / Java / **MongoDB** / MySQL / **Vue** / **Nuxt.js** / Nest.js
 - 🗣️ Native Russian speaker, but also learning English
-- ⚒️ Previously worked in [**PreMiD**](https://premid.app/) as a **front-end developer**
+- ⚒️ Previously worked at [**PreMiD**](https://github.com/PreMiD/Website) as a **front-end developer**
 - 💻 Using **ASUS TUF GAMING A15** / **iPhone** / **iPad**
 - 🕸️ Personal website [**ryzhenkov(space)**](https://ryzhenkov.space)
   
