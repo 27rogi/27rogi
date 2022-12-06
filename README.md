@@ -13,7 +13,7 @@ I also have personal website [__**ryzhenkov(space)**__](https://ryzhenkov.space)
 
 - ⚒️ **JavaScript** */* **TypeScript** */* Java */* **MongoDB** */* MySQL */* **Vue** */* **Nuxt.js** */* Nest.js
 - 📚 Native **Russian** speaker, but also learning **English**
-- 🖥 **ASUS TUF Gaming A15** */* **iPhone XR** */* **iPad Mini 5**
+- 🖥 **ASUS TUF Gaming A15** */* **Google Pixel 6a** */* **iPhone XR** */* **Xiaomi Pad 5**
 
 ### Particitipation
 
