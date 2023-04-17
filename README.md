@@ -3,17 +3,16 @@
 | <h2><b>/usr/rogi27</b></h2> | <img align="right" width="48" src="https://media4.giphy.com/media/7ai7UN3xf5b1JVYiQd/giphy.gif"> |
 | :--- | ---: |  
 
-Welcome, call me **Igor**. I'm developing websites, software and sometimes do design, but I also like to experiment with new technologies. I have vocational education diploma with honors in "**Information systems and programming**".
+At the moment I am engaged in development of programs, modifications and websites. I have vocational education diploma with honors in "**Information systems and programming**".
+If you are interested in working with me or just want to know more be sure to visit [__**ryzhenkov(space)**__](https://ryzhenkov.space)!
 
-I also have personal website [__**ryzhenkov(space)**__](https://ryzhenkov.space) where you can find more about me.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogi27&layout=compact&custom_title=%F0%9F%94%A5%20Most%20used%20languages&title_color=4ecba4&text_color=fff&langs_count=7&border_color=393e43&bg_color=272a2e&card_width=200" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogi27&custom_title=%F0%9F%94%A5%20Most%20used%20languages&title_color=4ecba4&text_color=fff&langs_count=8&border_color=393e43&bg_color=121214&card_width=200" />
 
 ### Quick details
 
 - ⚒️ **JavaScript** */* **TypeScript** */* Java */* **MongoDB** */* MySQL */* **Vue** */* **Nuxt.js** */* Nest.js
 - 📚 Native **Russian** speaker, but also learning **English**
-- 🖥 **ASUS TUF Gaming A15** */* **Google Pixel 6a** */* **iPhone XR** */* **Xiaomi Pad 5**
+- 🖥 **ASUS TUF Gaming A15** */* **Google Pixel 6a** */* **Xiaomi Pad 5**
 
 ### Particitipation
 
