@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F27rogi%2F27rogi.json&style=flat-square&label=%F0%9F%A7%AA%20profile%20views&labelColor=393e43&color=4ecba4" />
+<img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F27rogi%2F27rogi.json&style=flat-square&label=%F0%9F%A7%AA%20profile%20views&labelColor=393e43&color=4ecba4" /> <img align="right" src="https://www.codewars.com/users/27rogi/badges/small" />
 
 | <h2><b>27rogi</b></h2> | <img align="right" width="48" src="https://media4.giphy.com/media/7ai7UN3xf5b1JVYiQd/giphy.gif"> |
 | :--- | ---: |  
