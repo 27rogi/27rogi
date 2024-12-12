@@ -1,18 +1,16 @@
-<img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F27rogi%2F27rogi.json&style=flat-square&label=%F0%9F%A7%AA%20profile%20views&labelColor=393e43&color=4ecba4" /> [<img align="right" src="https://www.codewars.com/users/27rogi/badges/small" />](https://www.codewars.com/users/27rogi)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27rogi&custom_title=%F0%9F%94%A5%20Most%20used%20languages&title_color=4ecba4&text_color=fff&langs_count=6&border_color=393e43&bg_color=121214&card_width=200" />
 
-| <h2><b>27rogi</b></h2> | <img align="right" width="48" src="https://media4.giphy.com/media/7ai7UN3xf5b1JVYiQd/giphy.gif"> |
+| <h2>🍃 [__**27rogi**__](https://rogi.su)</h2> | <img align="center" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2F27rogi%2F27rogi.json&style=flat-square&label=%F0%9F%A7%AA%20profile%20views&labelColor=393e43&color=4ecba4" /> [<img align="center" src="https://www.codewars.com/users/27rogi/badges/small" />](https://www.codewars.com/users/27rogi) |
 | :--- | ---: |  
 
 At the moment I am engaged in development of programs, modifications and websites. I have vocational education diploma with honors in "**Information systems and programming**".
 If you are interested in working with me or just want to know more be sure to visit [__**rogi#su**__](https://rogi.su)!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27rogi&custom_title=%F0%9F%94%A5%20Most%20used%20languages&title_color=4ecba4&text_color=fff&langs_count=6&border_color=393e43&bg_color=121214&card_width=200" />
-
 ### Quick details
 
-- ⚒️ **JavaScript** */* **TypeScript** */* **Nuxt** */* **MongoDB** */* **Tailwind** */* **SCSS**
-- 📚 Native **Russian** speaker, but also learning **English**
-- 🖥 **ASUS TUF Gaming A15** */* **Google Pixel 6** */* **Xiaomi Pad 5**
+- 🛠️ Primary stack: **JavaScript** */* **TypeScript** */* **Nuxt** */* **MongoDB** */* **Tailwind** */* **SCSS**
+- 💬 Native **Russian** speaker, but also learning **English**
+- 💻 Workspace: **ASUS TUF Gaming A15 2023 (7735HS, 24GB DDR5, RTX 4060)** */* **POCO F6** */* **Xiaomi Pad 5 (WIN 11 ARM64)**, **ASUS N76VJ (3630QM, 12GB DDR3)** (server)
 
 ### Education
 - Studying at the **Moscow Technical University of Communications and Informatics** for a bachelor's degree in "**Informatics and Computer Science**"
