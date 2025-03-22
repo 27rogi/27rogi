@@ -12,7 +12,7 @@ If you are interested in working with me or just want to learn more, be sure to 
 
 - 🛠️ Primary stack: **JavaScript** */* **TypeScript** */* **Nuxt** */* **MongoDB** */* **Tailwind** */* **SCSS**
 - 💬 Native **Russian** speaker, but also learning **English**
-- 💻 Workspace: **ASUS TUF Gaming A15 2023 (7735HS, 24GB DDR5, RTX 4060)** */* **POCO F6** */* **Xiaomi Pad 5 (WIN 11 ARM64)**, **ASUS N76VJ (3630QM, 12GB DDR3)** (server)
+- 💻 Workspace: **ASUS TUF Gaming A15 2023 (7735HS, 24GB DDR5, RTX 4060)** */* **POCO F6** */* **Xiaomi Pad 5 (WIN 11 ARM64)**, **ASUS N76VJ (3630QM, 16GB DDR3)** (server)
 
 ### Education
 - Currently studying for a **Bachelor's degree** in **Informatics and Computer Science** at the **Moscow Technical University of Communications and Informatics**
